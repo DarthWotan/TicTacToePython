@@ -1,0 +1,54 @@
+## IDEAS: 
+- TicTacToe-Program
+- 3x3 grid 
+- Single- and Multiplayer 
+- AI 
+- Interface 
+
+### CONCEPT:
+- Singleplayer
+	- 3x3 grid 
+	- input for player name 
+	- playing with "X" and "O" as marks 
+		- making other marks, too
+	- placing marks from 1-9 / a1-c3 
+	- playing agains AI 
+		- maybe different difficulties 
+	- AI 
+		- input player 1 
+		- check win 
+		- AI
+- Multiplayer
+	- 3x3 grid 
+	- input for player names
+	- "X" and "O" as marks  
+	- playing against a friend
+		- input player1 
+		- check win / tie 
+		- flip player 
+- Interface 
+	- Startscreen 
+		- Single- or Multiplayer 
+		- player name(s)
+		- screen with Singleplayer \n Multiplayer etc
+	- Game itself
+		- 3x3 grid 
+		- "X" and "O" as marks 
+		- modular resolution
+		- click on a1 --> mark on a1, etc.
+	 		- input player
+			- place mark
+			- check win / tie
+			- flip player / AI
+	- Endscreen
+	    - winning message / tie
+	    - showing winner
+	    - showing scoreboard with wins
+	    - option for a restart
+
+## BONUS STUFF:
+- Titlescreen
+- different difficulties
+- audio
+- audio on/off
+- different music? (you can choose between e.g. 10 songs?)
